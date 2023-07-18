@@ -7,7 +7,7 @@
 ### Personal Stuff 
   - **currently working on** **single-parton QGP**
   - 🌱 **currently learning** Rice University, *visiting undergraduate*
-  - 🤔 **I’m looking for help with Root**
+  - 🤔 **I’m looking for help with ROOT**
   - 💬 **Ask me about my repo related work and some **Git Knowledge****
   - 📫 **How to reach me:**
 [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Jiahao&amp;color=orange&amp;style=flat-square)](mailto:jiahaoyplus@gmail.com)
