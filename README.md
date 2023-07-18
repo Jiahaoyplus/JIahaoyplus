@@ -1,4 +1,4 @@
-![me](https://github.com/Jiahaoplus/Jiahaoyplus/raw/main/me2.gif)
+![me](https://github.com/Jiahaoplus/Jiahaoyplus/raw/main/header.png)
 
 <a href="https://github.com/L1cardo/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></a>
 # Hi there 👋, I'm Jiahao Yan
